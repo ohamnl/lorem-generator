@@ -48,16 +48,4 @@ else {
 
 
 
-//   function input (amount){
-
-
-//   }
-
-
-// function textShow (){
-//     for (let i = 0; i < 1; i++) {
-//         console.log(text.Math.floor(Math.random()*text));
-//     }                            
-// }
-// textShow();
 
